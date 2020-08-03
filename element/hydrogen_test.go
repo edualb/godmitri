@@ -2,7 +2,7 @@ package element
 
 import "testing"
 
-func TestGetPeriod(t *testing.T) {
+func TestHydrogenGetPeriod(t *testing.T) {
 	h := Hydrogen{}
 	want := "period 1"
 	got := h.GetPeriod()
@@ -11,7 +11,7 @@ func TestGetPeriod(t *testing.T) {
 	}
 }
 
-func TestGetGroup(t *testing.T) {
+func TestHydrogenGetGroup(t *testing.T) {
 	h := Hydrogen{}
 	want := ""
 	got := h.GetGroup()
@@ -20,7 +20,7 @@ func TestGetGroup(t *testing.T) {
 	}
 }
 
-func TestGetCategory(t *testing.T) {
+func TestHydrogenGetCategory(t *testing.T) {
 	h := Hydrogen{}
 	want := "non-metal"
 	got := h.GetCategory()
@@ -29,7 +29,7 @@ func TestGetCategory(t *testing.T) {
 	}
 }
 
-func TestGetName(t *testing.T) {
+func TestHydrogenGetName(t *testing.T) {
 	h := Hydrogen{}
 	want := "Hydrogen"
 	got := h.GetName()
@@ -38,7 +38,7 @@ func TestGetName(t *testing.T) {
 	}
 }
 
-func TestGetSimbol(t *testing.T) {
+func TestHydrogenGetSimbol(t *testing.T) {
 	h := Hydrogen{}
 	want := "H"
 	got := h.GetSimbol()
@@ -47,7 +47,7 @@ func TestGetSimbol(t *testing.T) {
 	}
 }
 
-func TestGetAtomicNumber(t *testing.T) {
+func TestHydrogenGetAtomicNumber(t *testing.T) {
 	h := Hydrogen{}
 	want := 1
 	got := h.GetAtomicNumber()
@@ -56,7 +56,7 @@ func TestGetAtomicNumber(t *testing.T) {
 	}
 }
 
-func TestGetAtomicWeight(t *testing.T) {
+func TestHydrogenGetAtomicWeight(t *testing.T) {
 	h := Hydrogen{}
 	var want float32 = 1.008
 	got := h.GetAtomicWeight()
