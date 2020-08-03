@@ -5,7 +5,8 @@ type Helium struct{}
 
 // GetPeriod returns the helium period
 func (Helium) GetPeriod() string {
-	return "period 1"
+	var p periodType = firstPeriod
+	return p.get()
 }
 
 // GetGroup returns the helium group

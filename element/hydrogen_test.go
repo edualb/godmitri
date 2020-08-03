@@ -4,7 +4,7 @@ import "testing"
 
 func TestHydrogenGetPeriod(t *testing.T) {
 	h := Hydrogen{}
-	want := "period 1"
+	want := "1st period"
 	got := h.GetPeriod()
 	if got != want {
 		t.Errorf("Hydrogen.GetPeriod() = got %v, want %v", got, want)

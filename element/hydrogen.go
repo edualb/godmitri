@@ -5,7 +5,8 @@ type Hydrogen struct{}
 
 // GetPeriod returns the hydrogen period
 func (Hydrogen) GetPeriod() string {
-	return "period 1"
+	var p periodType = firstPeriod
+	return p.get()
 }
 
 // GetGroup returns the hydrogen group

@@ -4,7 +4,7 @@ import "testing"
 
 func TestHeliumGetPeriod(t *testing.T) {
 	h := Helium{}
-	want := "period 1"
+	want := "1st period"
 	got := h.GetPeriod()
 	if got != want {
 		t.Errorf("Helium.GetPeriod() = got %v, want %v", got, want)
