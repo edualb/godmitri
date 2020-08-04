@@ -5,12 +5,14 @@ type categoryType int
 const (
 	nonMetal = iota
 	nobleGas
+	alkaliMetal
 )
 
 // Get gets the categoryType
 func (ct categoryType) get() string {
 	return [...]string{
-		"non-metal",
-		"noble gas",
+		"Non-metal",
+		"Noble gas",
+		"Alkali metal",
 	}[ct]
 }

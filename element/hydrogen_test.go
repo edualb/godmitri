@@ -22,7 +22,7 @@ func TestHydrogenGetGroup(t *testing.T) {
 
 func TestHydrogenGetCategory(t *testing.T) {
 	h := Hydrogen{}
-	want := "non-metal"
+	want := "Non-metal"
 	got := h.GetCategory()
 	if got != want {
 		t.Errorf("Hydrogen.GetCategory() = got %v, want %v", got, want)

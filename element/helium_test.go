@@ -22,7 +22,7 @@ func TestHeliumGetGroup(t *testing.T) {
 
 func TestHeliumGetCategory(t *testing.T) {
 	h := Helium{}
-	want := "noble gas"
+	want := "Noble gas"
 	got := h.GetCategory()
 	if got != want {
 		t.Errorf("Helium.GetCategory() = got %v, want %v", got, want)
