@@ -7,6 +7,7 @@ const (
 	nobleGas
 	alkaliMetal
 	alkalineEarthMetal
+	metalloid
 )
 
 // Get gets the categoryType
@@ -16,5 +17,6 @@ func (ct categoryType) get() string {
 		"Noble gas",
 		"Alkali metal",
 		"Alkaline earth metal",
+		"Metalloid",
 	}[ct]
 }
