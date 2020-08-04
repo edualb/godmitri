@@ -7,7 +7,7 @@ const (
 	nobleGas
 )
 
-// Get gets the periodType
+// Get gets the categoryType
 func (ct categoryType) get() string {
 	return [...]string{
 		"non-metal",
