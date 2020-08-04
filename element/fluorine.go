@@ -1,6 +1,6 @@
 package element
 
-// Oxygen strtuct for fluorine element
+// Fluorine strtuct for fluorine element
 type Fluorine struct{}
 
 // GetPeriod returns the fluorine period
