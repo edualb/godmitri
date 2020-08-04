@@ -6,6 +6,7 @@ const (
 	nonMetal = iota
 	nobleGas
 	alkaliMetal
+	alkalineEarthMetal
 )
 
 // Get gets the categoryType
@@ -14,5 +15,6 @@ func (ct categoryType) get() string {
 		"Non-metal",
 		"Noble gas",
 		"Alkali metal",
+		"Alkaline earth metal",
 	}[ct]
 }
