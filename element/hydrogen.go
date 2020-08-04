@@ -16,7 +16,8 @@ func (Hydrogen) GetGroup() string {
 
 // GetCategory returns the hydrogen category
 func (Hydrogen) GetCategory() string {
-	return "non-metal"
+	var c categoryType = nonMetal
+	return c.get()
 }
 
 // GetName returns the hydrogen name

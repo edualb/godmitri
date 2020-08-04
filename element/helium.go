@@ -11,12 +11,14 @@ func (Helium) GetPeriod() string {
 
 // GetGroup returns the helium group
 func (Helium) GetGroup() string {
-	return "8A"
+	var g groupType = a8
+	return g.get()
 }
 
 // GetCategory returns the helium category
 func (Helium) GetCategory() string {
-	return "noble gas"
+	var c categoryType = nobleGas
+	return c.get()
 }
 
 // GetName returns the helium name
