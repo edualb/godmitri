@@ -5,19 +5,19 @@ First of all, thanks for the interest in contributing, we can do great work toge
 The following is a set of guidelines for contributing to Godmitri project. It is important to be clear, these guidelines are just guidelines, not rules. Use it for your best judgment, and feel free to propose changes to this document.
 
 #### **Table Of Contents**
-[:earth_africa: How can I contribute?](#:earth_africa:-how-can-i-contribute)
+[:earth_africa: How can I contribute?](#earth_africa-how-can-i-contribute)
 
-  * [Reporting bugs :beetle:](#reporting-bugs-:beetle:)
+  * [:beetle: Reporting bugs](#beetle-reporting-bugs)
 
-  * [:bulb: Suggesting an enhancement](#:bulb:-suggesting-a-feature)
+  * [:bulb: Suggesting an enhancement](#bulb-suggesting-a-feature)
 
-  * [:octocat: Code contributtion](#)
+  * [:octocat: Code contributtion](#-octocat-code-contributtion)
 
-[:art: Styleguides](#:art:-styleguides)
+[:art: Styleguides](#art-styleguides)
 
 ## **:earth_africa: How can I contribute?**
 
-### **Reporting bugs :beetle:**
+### **:beetle: Reporting bugs**
 
   If you found out a bug, follow these steps:
 
