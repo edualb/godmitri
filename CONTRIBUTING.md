@@ -7,7 +7,7 @@ The following is a set of guidelines for contributing to Godmitri project. It is
 #### **Table Of Contents**
 [:earth_africa: How can I contribute?](#:earth_africa:-how-can-i-contribute)
 
-  * [:beetle: Reporting bugs](#:beetle:-reporting-bugs)
+  * [Reporting bugs :beetle:](#reporting-bugs-:beetle:)
 
   * [:bulb: Suggesting an enhancement](#:bulb:-suggesting-a-feature)
 
@@ -17,7 +17,7 @@ The following is a set of guidelines for contributing to Godmitri project. It is
 
 ## **:earth_africa: How can I contribute?**
 
-### **:beetle: Reporting bugs**
+### **Reporting bugs :beetle:**
 
   If you found out a bug, follow these steps:
 
