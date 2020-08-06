@@ -5,7 +5,7 @@
   Icon made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 </div>
 
-**:warning: IMPORTANT :warning** 
+**:warning: IMPORTANT :warning:** 
 
 *This library has been developing, feel free if you want to contribute for this project :earth_asia:. check out our [contributing guideline](https://github.com/edualb/godmitri/blob/master/CONTRIBUTING.md) :relaxed:*
 
