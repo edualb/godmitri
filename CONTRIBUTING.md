@@ -49,7 +49,7 @@ The following is a set of guidelines for contributing to Godmitri project. It is
 
     * Clear title
 
-    * Step-by-step description of the suggestion enhancement in as many details as possible
+    * Description of the suggestion enhancement in as many details as possible
 
     * Explain why this enhancement would be useful to most Godmitri users
 
