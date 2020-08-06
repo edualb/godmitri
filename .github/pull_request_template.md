@@ -1,5 +1,5 @@
 # Title (hashtag issue here)
-Please, if there is an issue put the hashtag of the issue in the title, for instance: `Update documentation(#2)`
+Please, if there is an issue put the hashtag of the issue in the title, for instance: Update documentation(#2)
 
 ## Description
 Write a clear description of the proposed changes

@@ -43,18 +43,7 @@ The following is a set of guidelines for contributing to Godmitri project. It is
 
   * Before open a Pull Request, run the tests and check if the code is following the [styleguide](#styleguides)
 
-  * Finally, open a Pull Request follow these characteristics:
-
-    * Issue title, example: "Update documentation(#2)"
-
-    * Clear Descripton
-
-    * Explain the problem
-
-    * Explain the solution as clear as possible
-
-    * Alternative solution (optional)
-
+  * Finally, open a Pull Request following the [pull_request_template.md](https://github.com/edualb/godmitri/blob/master/.github/pull_request_template.md) template.
 
 ## **:art: Styleguides**
 
