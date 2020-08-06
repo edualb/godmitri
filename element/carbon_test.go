@@ -25,7 +25,7 @@ func TestCarbonGetCategory(t *testing.T) {
 	want := "Non-metal"
 	got := c.GetCategory()
 	if got != want {
-		t.Errorf("Boron.GetCategory() = got %v, want %v", got, want)
+		t.Errorf("Carbon.GetCategory() = got %v, want %v", got, want)
 	}
 }
 
