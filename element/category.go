@@ -9,6 +9,7 @@ const (
 	alkalineEarthMetal
 	metalloid
 	postTransitionMetal
+	transitionMetal
 )
 
 // Get gets the categoryType
@@ -20,5 +21,6 @@ func (ct categoryType) get() string {
 		"Alkaline earth metal",
 		"Metalloid",
 		"Post-transition metal",
+		"Transition metal",
 	}[ct]
 }
