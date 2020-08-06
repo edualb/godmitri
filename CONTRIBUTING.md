@@ -23,21 +23,7 @@ The following is a set of guidelines for contributing to Godmitri project. It is
 
   * Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/edualb/godmitri/issues).
 
-  * If you didn't find out any issue opened, open an [issue](https://github.com/edualb/godmitri/issues) that follows these characteristics:
-
-    * Clear title
-
-    * Clear Description
-
-    * Steps to reproduce the bug
-
-    * Expected behavior
-
-    * Actual behavior
-
-    * Tag with the bug label
-
-    * Additional behavior (optional)
+  * If you didn't find out any issue opened, open an [issue](https://github.com/edualb/godmitri/issues) that follows the [bug_report.md](https://github.com/edualb/godmitri/blob/master/.github/ISSUE_TEMPLATE/bug_report.md) template.
 
 ### **:bulb: Suggesting an enhancement**
 
@@ -45,15 +31,7 @@ The following is a set of guidelines for contributing to Godmitri project. It is
 
   * Check if the enhancement was not already implemented, you can check it accessing the [go package](#)
 
-  * If the enhancement was not already implemented, open an [issue](https://github.com/edualb/godmitri/issues) that follows these characteristics:
-
-    * Clear title
-
-    * Description of the suggestion enhancement in as many details as possible
-
-    * Explain why this enhancement would be useful to most Godmitri users
-
-    * List some other application where this enhancement exists (If it doesn't exist don't fill out this)
+  * If the enhancement was not already implemented, open an [issue](https://github.com/edualb/godmitri/issues) that follows the [feature_request.md](https://github.com/edualb/godmitri/blob/master/.github/ISSUE_TEMPLATE/feature_request.md) template.
 
 ### :octocat: Code contributtion
 
