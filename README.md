@@ -9,7 +9,7 @@
 
 *This library has been developing, feel free if you want to contribute for this project :earth_asia:. check out our [contributing guideline](https://github.com/edualb/godmitri/blob/master/CONTRIBUTING.md) :relaxed:*
 
-#### Table Of Contents
+#### Table Of Contents:
 
 [Introduction](#introduction)
 
