@@ -36,7 +36,7 @@ func (Europium) GetAtomicNumber() int {
 	return 63
 }
 
-// GetAtomicWeight returns the chromium atomic weight
+// GetAtomicWeight returns the europium atomic weight
 func (Europium) GetAtomicWeight() float32 {
 	return 151.96
 }
