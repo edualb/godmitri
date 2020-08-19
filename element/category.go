@@ -12,6 +12,7 @@ const (
 	transitionMetal
 	lanthanoid
 	actinoid
+	unknown
 )
 
 // Get gets the categoryType
@@ -26,5 +27,6 @@ func (ct categoryType) get() string {
 		"Transition metal",
 		"Lanthanoid",
 		"Actinoid",
+		"Unknown",
 	}[ct]
 }
