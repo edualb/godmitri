@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/edualb/godmitri.svg?branch=master)](https://travis-ci.com/edualb/godmitri)
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/39157101/89476373-e52d3980-d760-11ea-99b4-d35b675c3a8d.png" width="200">
 </div>
