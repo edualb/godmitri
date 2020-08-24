@@ -6,18 +6,15 @@
 <div align="center">
   Icon made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 </div>
-
-**:warning: IMPORTANT :warning:** 
-
-*This library has been developing, feel free if you want to contribute for this project :earth_asia:. check out our [contributing guideline](https://github.com/edualb/godmitri/blob/master/CONTRIBUTING.md) :relaxed:*
+<br>
 
 #### Table Of Contents:
 
 [Introduction](#introduction)
 
-[Installation](#)
+[Installation](#installation)
 
-[Getting start](#)
+[Getting start](#getting-start)
 
 ## **Introduction**
 
@@ -25,4 +22,40 @@ This project provides utilities for general chemistry. The name of the project w
 
 Key features:
 
-  * Get all elements properties from the periodic table :hourglass_flowing_sand:
+  * Get all elements properties from the periodic table :heavy_check_mark:
+
+If you want to contribute with a new feature or found out some bug which you can solve, check our [contributing guideline](https://github.com/edualb/godmitri/blob/master/CONTRIBUTING.md)
+
+## **Installation**
+
+* init the go module in your project
+
+  ```
+  $ go mod init example.com/myProject
+  ```
+
+* Just import the `godmitri` library in your project
+
+  ```go
+  import "github.com/edualb/godmitri/element"
+  ```
+
+## **Getting start**
+
+```go
+package main
+
+import (
+	"fmt"
+
+	"github.com/edualb/godmitri/element"
+)
+
+func main() {
+    // Creates an instance of Aluminium
+	a := element.Aluminium{}
+
+    // Prints the atomic weight from aluminium
+	fmt.Printf("%f\n", a.GetAtomicWeight())
+}
+```
